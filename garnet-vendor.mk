@@ -182,7 +182,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.kernel.early_debug-parrot.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.kernel.early_debug-parrot.sh \
     vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.kernel.early_debug.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.kernel.early_debug.sh \
     vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.kernel.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.kernel.sh \
-    vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.media.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.media.sh \
     vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.qcv.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.qcv.sh \
     vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.touch_boot.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.touch_boot.sh \
     vendor/xiaomi/garnet/proprietary/vendor/bin/init.qti.write.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.write.sh \
@@ -736,7 +735,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/garnet/proprietary/vendor/etc/init/imsdaemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/imsdaemon.rc \
     vendor/xiaomi/garnet/proprietary/vendor/etc/init/init.embmssl_server.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.embmssl_server.rc \
     vendor/xiaomi/garnet/proprietary/vendor/etc/init/init.qdmastats.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.qdmastats.rc \
-    vendor/xiaomi/garnet/proprietary/vendor/etc/init/init.qti.media.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.qti.media.rc \
     vendor/xiaomi/garnet/proprietary/vendor/etc/init/init.qti.qcv.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.qti.qcv.rc \
     vendor/xiaomi/garnet/proprietary/vendor/etc/init/init.qti.touch_boot.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.qti.touch_boot.rc \
     vendor/xiaomi/garnet/proprietary/vendor/etc/init/init.time_daemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.time_daemon.rc \
