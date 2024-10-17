@@ -158,6 +158,8 @@ need to be added just before the end of it's major group. -->
         <Minor OpcodeValue="0x15" Node="/sys/devices/system/cpu/cpu0/cpufreq/walt/target_load_shift" />
         <Minor OpcodeValue="0x16" Node="/sys/devices/system/cpu/cpu4/cpufreq/walt/hispeed_freq" />
         <Minor OpcodeValue="0x17" Node="/sys/devices/system/cpu/cpu0/cpufreq/walt/up_rate_limit_us" />
+        <Minor OpcodeValue="0x18" Node="/sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq" Value="1500000" Supported="no" />
+        <Minor OpcodeValue="0x19" Node="/sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq" Value="1800000" Supported="yes" />
     <!-- interactive major end -->
 
     <!-- cpubw hwmon major start -->
